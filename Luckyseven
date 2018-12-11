@@ -72,3 +72,38 @@ public String toString()
 
 
 }
+
+
+
+
+
+
+
+//lol
+import java.util.Scanner;
+public class Dice2Av
+{
+ public static void main(String[] args){
+     Scanner input = new Scanner(System.in);
+     Luckyseven dice = new Luckyseven();
+     dice.roll();
+     dice.getDollars();
+    
+     int d =input.nextInt();
+     dice.setDollars(d);
+ 
+ 
+
+ 
+
+
+
+
+
+
+}
+}
+
+
+
+
