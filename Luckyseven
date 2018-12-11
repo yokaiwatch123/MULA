@@ -52,7 +52,7 @@ public int getAverage(){
   return average;
 }
 
-public String toString()
+public String toString() // is this even required?
 	{
 		String str;
 		str = "Money " + dollars + "\n" + "sum" + sum + "\n" + "avg" + average ;
