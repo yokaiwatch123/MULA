@@ -72,6 +72,10 @@ public String toString()
 
 
 //PLEASE EXPLAIN WHAT NEEDS TO BE DONE HERE!!!!!!!!!!!!!!!
+// Needs to print out the dice rolling 100 times . So if the sum of the Die1+ die2 den add + 4 dollars else -1 . which is on the roll
+// constructor 
+// ive tried it but only prints out amount of money entered. 
+// after printing the 100 roll of dice it needs to print out the average number which is sum of die1+die2 /100
 
 import java.util.Scanner;
 public class Dice2Av
